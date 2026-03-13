@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://x.com/ndng16752248">X</a>
   ·
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:xiuruisu@gmail.com">Email</a>
 </p>
 
 ---
