@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anteisuba">GitHub</a>
+  <a href="https://x.com/ndng16752248">X</a>
   ·
-  <a href="xiuruisu@gmail.com">Email</a>
+  <div>Email:xiuruisu@gmail.com</div>
 </p>
 
 ---
