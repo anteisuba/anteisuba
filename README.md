@@ -1,18 +1,15 @@
-<!-- Header -->
+<!-- 把所有 anteisuba 替换成你自己的 GitHub 用户名 -->
+
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   $ whoami                                           ║
-║   > anteisuba                                          ║
-║                                                      ║
-║   $ cat about.txt                                    ║
-║   > Developer based in Tokyo, Japan 🇯🇵            ║
-║   > Building things with JS/TS & JVM                 ║
-║   > Obsessed with clean code & good coffee ☕         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+$ whoami
+> anteisuba
+
+$ cat about.txt
+> Developer based in Kawasaki, Japan
+> Building things with JS/TS & JVM
+> Obsessed with clean code & good coffee
 ```
 
 </div>
@@ -34,11 +31,6 @@ const stack = {
 ---
 
 ## `$ git log --oneline`
-
-<!--
-  把下面的 youken 替换成你真实的 GitHub 用户名
-  GitHub Stats 会自动从你的 public 仓库生成
--->
 
 <div align="center">
 
@@ -63,17 +55,14 @@ const stack = {
 ## `$ ping me`
 
 ```bash
-$ curl -X GET [https://social.youken.dev](https://x.com/ndng16752248)
+$ curl -X GET https://social.anteisuba.dev
 
 {
-  "twitter"  : "@youken",
-  "location" : "Kawasaki, JP 🗾",
+  "location" : "Kawasaki, JP",
   "status"   : "open to interesting projects",
   "response" : 200 OK
 }
 ```
-
-<!-- 把上面的链接换成你真实的社交账号 -->
 
 ---
 
@@ -81,8 +70,6 @@ $ curl -X GET [https://social.youken.dev](https://x.com/ndng16752248)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anteisuba&color=58a6ff&style=flat-square&label=visitors)
 
-```
-// thanks for stopping by. star something if it helped you ✦
-```
+`// thanks for stopping by ✦`
 
 </div>
