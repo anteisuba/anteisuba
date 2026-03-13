@@ -5,10 +5,10 @@
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║   $ whoami                                           ║
-║   > youken                                           ║
+║   > anteisuba                                          ║
 ║                                                      ║
 ║   $ cat about.txt                                    ║
-║   > Developer based in Kawasaki, Japan 🇯🇵            ║
+║   > Developer based in Tokyo, Japan 🇯🇵            ║
 ║   > Building things with JS/TS & JVM                 ║
 ║   > Obsessed with clean code & good coffee ☕         ║
 ║                                                      ║
