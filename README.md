@@ -54,9 +54,3 @@
 
 - **[pixelvault_yang](https://github.com/anteisuba/pixelvault_yang)**
   Personal AI image gallery project for generation, storage, and creative browsing.
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anteisuba&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-</p>
